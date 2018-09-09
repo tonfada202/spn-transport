@@ -7,7 +7,7 @@ declare var $;
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'truck-app';
+  title = 'spn-transport';
 
   ngOnInit() {
 
